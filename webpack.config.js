@@ -54,7 +54,7 @@ module.exports = {
 
             options: {
               name: '[name].[ext]',
-              outputPath: 'images'
+              outputPath: 'img'
             }
           }
         ]

@@ -1,5 +1,8 @@
-require.context('../css');
 require.context('../img');
+import '../css/fonts.scss';
+import '../css/main.css';
+import '../css/normalize.css';
+import '../css/styles.scss';
 import '../css/media_queries.scss';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
