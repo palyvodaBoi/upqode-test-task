@@ -2,8 +2,8 @@ Test project
 
 ## Installation
 
-* git clone https://github.com/palyvodaBoi/text-edit-app.git
-* cd text-edit-app
-* npm install 
+* git clone https://github.com/palyvodaBoi/upqode-test-task.git
+* cd upqode-test-task
+* npm install
 * bower install
-* npm start
+* npm run dev
